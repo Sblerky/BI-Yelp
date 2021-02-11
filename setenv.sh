@@ -1,0 +1,1 @@
+export PATH=/usr/local/sbt-1.3.13/bin:$PATH
