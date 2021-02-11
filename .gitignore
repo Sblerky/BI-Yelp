@@ -1,7 +1,0 @@
-*.class
-*.log
-target/*
-project/*
-*.gitignore
-*.gitattributes
-*metabase*
